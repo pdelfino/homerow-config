@@ -45,9 +45,9 @@ I use [Karabiner Elements](https://karabiner-elements.pqrs.org/) to bring Emacs 
 
 Homerow is one piece of the keyboard-driven puzzle. Here are the others:
 
-- [my-karabiner-elements-config](https://github.com/pdelfino/my-karabiner-elements-config) — Emacs keybindings system-wide on macOS
+- [karabiner-config](https://github.com/pdelfino/karabiner-config) — Emacs keybindings system-wide on macOS
 - [emacs-config](https://github.com/pdelfino/emacs-config) — Emacs setup with Ivy, Projectile, Paredit, and more
-- [iTerm2-config](https://github.com/pdelfino/iTerm2-config) — iTerm2 preferences
+- [iterm2-config](https://github.com/pdelfino/iterm2-config) — iTerm2 preferences
 - [zshrc](https://github.com/pdelfino/zshrc) — Shell configuration
 - [claude-config](https://github.com/pdelfino/claude-config) — Claude Code configuration
 
