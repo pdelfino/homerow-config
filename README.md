@@ -27,6 +27,16 @@ My [Homerow](https://www.homerow.app/) configuration, version-controlled so I ne
 
 I use [Karabiner Elements](https://karabiner-elements.pqrs.org/) to bring Emacs keybindings everywhere on macOS, and Homerow to click things without a mouse. Together, they form an unholy alliance against RSI and rodent peripherals.
 
+## Related configs
+
+Homerow is one piece of the keyboard-driven puzzle. Here are the others:
+
+- [my-karabiner-elements-config](https://github.com/pdelfino/my-karabiner-elements-config) — Emacs keybindings system-wide on macOS
+- [emacs-config](https://github.com/pdelfino/emacs-config) — Emacs setup with Ivy, Projectile, Paredit, and more
+- [iTerm2-config](https://github.com/pdelfino/iTerm2-config) — iTerm2 preferences
+- [zshrc](https://github.com/pdelfino/zshrc) — Shell configuration
+- [claude-config](https://github.com/pdelfino/claude-config) — Claude Code configuration
+
 ## License
 
 MIT — Feel free to use this config. Your mouse will understand.
