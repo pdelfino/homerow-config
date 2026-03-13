@@ -1,6 +1,6 @@
 # homerow-config
 
-![The Card Players](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg/700px-Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg)
+![The Card Players](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg/960px-Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg)
 
 *"The Card Players" (1890-1895) by Paul Cezanne -- [Wikipedia](https://en.wikipedia.org/wiki/The_Card_Players)*
 
